@@ -1,0 +1,18 @@
+body
+{
+	background-image: url("img/fondarduino.png");
+	background-repeat: no-repeat;
+	background-color: blue;
+	color: rgb(242 , 242 , 0 );
+}
+
+.titre
+{
+	color : red;
+}	
+
+.bottom
+{
+	text-align:right;
+	vertical-align : text-bottom;
+}
